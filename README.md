@@ -47,7 +47,8 @@ The application sends track values to Pure Data on port 3000. Ensure Pure Data i
 
 ## Author
 
-Martin Jaros (jarosmartin@duck.com)
+Martin Jaros.
+https://martinjaros.netlify.app/
 
 ## License
 
