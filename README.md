@@ -2,6 +2,9 @@
 
 A real-time multitrack timeline application for sending triggers and continuous values to Pure Data (Pd).
 
+[![Watch the video](https://img.youtube.com/vi/DPBmmIojLvI/default.jpg)](https://youtu.be/DPBmmIojLvI)
+
+
 ## Features
 
 - Create and manipulate points across multiple tracks
